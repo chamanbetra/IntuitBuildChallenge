@@ -28,5 +28,10 @@ python3 main_assignment1.py
 ### **Sample Output**
 <img width="1722" height="748" alt="image" src="https://github.com/user-attachments/assets/5304cc5c-1328-4a7a-af98-0e1bac374679" />
 
+### **Run Tests** 
+```bash
+python3 -m unittest test_assignment1.py
+```
+
 
 
