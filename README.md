@@ -24,7 +24,9 @@ This assignment demonstrates:
 ```bash
 cd "Producer Consumer Pattern"
 python3 main_assignment1.py
+```
+### **Sample Output**
+<img width="1722" height="748" alt="image" src="https://github.com/user-attachments/assets/5304cc5c-1328-4a7a-af98-0e1bac374679" />
 
-### **SampleOutput**
-<img width="1744" height="812" alt="image" src="https://github.com/user-attachments/assets/8edebb97-aabc-4fcc-a106-3f89f47b832d" />
+
 
