@@ -23,7 +23,7 @@ python3 --version
 python3 -m venv venv
 ```
 
-Activate it:
+## Activate it:
 Mac/Linux:
 ```bash
 source venv/bin/activate
@@ -31,6 +31,14 @@ source venv/bin/activate
 Windows:
 ```bash
 venv\Scripts\activate
+```
+
+## Install Required Python packages:
+Both assignments require pandas(Assignment 2) and Python's built in module 
+
+Install dependencies:
+```bash
+pip install pandas
 ```
 
 # 📘 Assignment 1 — Producer–Consumer Pattern (Multithreading)
